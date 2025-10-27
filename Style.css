@@ -1,0 +1,11 @@
+
+.table {
+            max-width: max-content;
+            background-color: green;
+            color: white;
+            padding: 10px;
+        }
+
+        table {
+            border-collapse: 1px solid black;
+        }
